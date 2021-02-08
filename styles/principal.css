@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #0F0F0F;
+    font-family: sans-serif;
+    color: #E5E5E5;
+    font-size: 2.1em;
+}
+
+.conteudo,
+.conteudo-venda {
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #E5E5E5;
+    color: #0F0F0F;
+    width: 70%;
+}
+
+.conteudo-venda {
+    font-size: 1.3em;
+}
+
+input,
+button {
+    margin: 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.2em;
+    width: 70%;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 100px;
+    margin-bottom: 0;
+}
